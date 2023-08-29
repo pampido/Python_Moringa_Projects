@@ -1,7 +1,7 @@
-#Project_Assignment
+# Project_Assignment
 
-##Intro
-The manager will track chores assigned and their status in the statistics division
+## Intro
+### The manager will track chores assigned and their status in the statistics division
 
 1. One is expected to add all their chores and mark them as done as they are completed.
 2. Usage Add the chores to be done Mark chores as done if they are complete
