@@ -14,7 +14,7 @@ The manager will track chores assigned and their status in the statistics divisi
 
 
 ### Project Owner
-Pampido^Mapando^
+Pampido ^Mapando^
 
 ### Repository
 https://github.com/pampido/Python_Moringa_Projects/
