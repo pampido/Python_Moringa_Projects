@@ -5,8 +5,8 @@ A simple chores manager made by Martin as part of the requirement for data scien
 ### What the Chores Manager Does
 The manager will track chores assigned and their status in the statistics division
 
-* One is expected to add all their chores and mark them as done as they are completed.
-2. Usage Add the chores to be done Mark chores as done if they are complete
-3. List the chores to see at a glance the number of chores assigned, how many are done and how many are pending
-4. All erroneously entered chores can be deleted.
-5. Exit the manage to finish using it
+* It adds chores to the manager
+* Marks chores as done as when they are completed.
+* Lists all the chores to enable user see at a glance the number of chores assigned and their completion status
+* Allows user to delete any erroneously entered chore(s).
+5. Save and Exit the manager once done using it
